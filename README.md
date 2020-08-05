@@ -1,5 +1,6 @@
 # NEAT vs PPO AI Pong
 Have NEAT and PPO compete against each other in games of pong.
+Full project in Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ebekw6Vi2lrq2YlDKoFZ7rx95UFKOYpb?usp=sharing)
 
