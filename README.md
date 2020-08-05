@@ -1,6 +1,9 @@
 # NEAT vs PPO AI Pong
 Have NEAT and PPO compete against each other in games of pong.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ebekw6Vi2lrq2YlDKoFZ7rx95UFKOYpb?usp=sharing)
+
+
 ## Road Map
 1. create preprocessing for observations
 2. implement and train PPO
