@@ -9,7 +9,7 @@ Full project in Google Colab.
 1. create preprocessing for observations
 2. implement and train PPO
 3. implement and train NEAT
-4. Analyze Performance of each (Coming Soon)
+4. Analyze Performance of both Algorithms (Coming Soon)
 
 In the future, an environment where both algorithms can play against eachother could be written. This will provide a more pure measurement of which algorithm is dominant at pong.
 
