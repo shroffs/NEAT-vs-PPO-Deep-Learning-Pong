@@ -9,8 +9,9 @@ Full project in Google Colab.
 1. create preprocessing for observations
 2. implement and train PPO
 3. implement and train NEAT
-4. create envirnoment where 2 agents can play
-5. see which algorithm can outplay the other
+4. Analyze Performance of each (Coming Soon)
+
+In the future, an environment where both algorithms can play against eachother could be written. This will provide a more pure measurement of which algorithm is dominant at pong.
 
 ## Vanilla Policy Optimization
 <img align="right" width=500 height=250 src="RLagentenv.jpg">
